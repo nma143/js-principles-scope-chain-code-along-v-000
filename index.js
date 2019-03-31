@@ -1,5 +1,6 @@
 /* Your code goes here */
 var customerName = 'bob';
+var leastFavoriteCustomer;
 
 function upperCaseCustomerName()
 {
